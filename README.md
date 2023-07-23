@@ -1,7 +1,7 @@
 # AI-Security-Resources
 
 This Github repository summarizes a list of research papers on **AI security** from the four top academic conferences, namely 
-*IEEE Symposium on Security and Privacy* (**S&P**), *Network and Distributed System Security Symposium* (**NDSS**), ***USENIX Security** Symposium*, and *ACM Conference on Computer and Communications Security* (**CCS**). 
+IEEE Symposium on Security and Privacy (**S&P**), Network and Distributed System Security Symposium (**NDSS**), **USENIX Security** Symposium, and ACM Conference on Computer and Communications Security (**CCS**). 
 
 We will try our best to continuously maintain this Github Repository in a weekly manner.
 
