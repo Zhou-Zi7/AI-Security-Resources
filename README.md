@@ -8,8 +8,8 @@ IEEE Symposium on Security and Privacy (**S&P**), Network and Distributed System
 We will try our best to continuously maintain this Github Repository in a weekly manner.
 
 ## News
-* 2023/7/24: I add S&P papers.
-* 2023/7/23: I create the AI-Security-Resources repository.
+* 2023/7/24: Zhou Ziqi add S&P papers.
+* 2023/7/23: We create the AI-Security-Resources repository.
 
 
 ## Table of Contents
