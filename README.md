@@ -71,7 +71,7 @@ We will try our best to continuously maintain this Github Repository in a weekly
   [[pdf]](https://arxiv.org/pdf/2112.08331.pdf)
   - Yun Shen, Xinlei He, Yufei Han, Yang Zhang. *IEEE Symposium on Security and Privacy*, 2022.
  
-- SoK: How Robust is Image Classification Deep Neural Network Watermarking?. **[Topic: Watermark]**
+- SoK: How Robust is Image Classification Deep Neural Network Watermarking? **[Topic: Watermark]**
   [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9833693)
   - Nils Lukas, Edward Jiang, Xinda Li, Florian Kerschbaum. *IEEE Symposium on Security and Privacy*, 2022.
 
