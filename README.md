@@ -17,6 +17,7 @@ We will try our best to continuously maintain this Github Repository in a weekly
 ## Table of Contents
 
 - [Papers in S&P](#papers-in-sp)
+  - [S&P'2024](#papers-in-sp24)
   - [S&P'2023](#papers-in-sp23)
   - [S&P'2022](#papers-in-sp22)
   - [S&P'2021](#papers-in-sp21)
