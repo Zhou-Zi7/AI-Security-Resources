@@ -3,6 +3,11 @@
 This Github repository summarizes a list of research papers on **AI security** from the four top academic conferences, namely 
 IEEE Symposium on Security and Privacy (**S&P**), Network and Distributed System Security Symposium (**NDSS**), **USENIX Security** Symposium, and ACM Conference on Computer and Communications Security (**CCS**). 
 
+*This repository is supported by the Trustworthy Artificial Intelligence ([T-AI](http://trustai.group)) Lab at  Huazhong University of Science and Technology (HUST).*
+
+
+
+
 We will try our best to continuously maintain this Github Repository in a weekly manner.
 
 ## News
