@@ -111,7 +111,7 @@ We will try our best to continuously maintain this Github Repository in a weekly
   [[pdf]](https://www.ndss-symposium.org/wp-content/uploads/2023/02/ndss2023_s199_paper.pdf)
   - Caiqin Dong, Jian Weng, Jia-Nan Liu, Yue Zhang, Yao Tong, Anjia Yang, Yudan Cheng, Shun Hu. *Network and Distributed System Security*, 2023.
 
-- Machine Unlearning of Features and Labels. **[Topic: MU]**
+- Machine Unlearning of Features and Labels. **[Topic: Machine-Unlearning]**
   [[pdf]](https://www.ndss-symposium.org/wp-content/uploads/2023/02/ndss2023_s87_paper.pdf)
   - Alexander Warnecke, Lukas Pirch, Christian Wressnegger, Konrad Rieck. *Network and Distributed System Security*, 2023.
 
@@ -152,6 +152,46 @@ We will try our best to continuously maintain this Github Repository in a weekly
   - Wenjie Qu, Jinyuan Jia, Neil Zhenqiang Gong. *Network and Distributed System Security*, 2023. 
 
 ### NDSS'2022
+
+- DeepSight: Mitigating Backdoor Attacks in Federated Learning Through Deep Model Inspection. **[Topic: Backdoor]**
+  [[pdf]](https://www.ndss-symposium.org/wp-content/uploads/2022-156-paper.pdf)
+  - Phillip Rieger, Thien Duc Nguyen, Markus Miettinen, Ahmad-Reza Sadeghi. *Network and Distributed System Security*, 2022. 
+
+- FedCRI: Federated Mobile Cyber-Risk Intelligence. **[Topic: FL]**
+  [[pdf]](https://www.ndss-symposium.org/wp-content/uploads/2022-153-paper.pdf)
+  - Hossein Fereidooni, Alexandra Dmitrienko, Phillip Rieger, Markus Miettinen, Ahmad-Reza Sadeghi, Felix Madlener. *Network and Distributed System Security*, 2022. 
+
+- Get a Model! Model Hijacking Attack Against Machine Learning Models. **[Topic: Model-Hijacking]**
+  [[pdf]](https://www.ndss-symposium.org/wp-content/uploads/2022-64-paper.pdf)
+  - Ahmed Salem, Michael Backes, Yang Zhang. *Network and Distributed System Security*, 2022. 
+
+- Local and Central Differential Privacy for Robustness and Privacy in Federated Learning. **[Topic: FL]**
+  [[pdf]](https://www.ndss-symposium.org/wp-content/uploads/2022-54-paper.pdf)
+  - Mohammad Naseri, Jamie Hayes, Emiliano De Cristofaro. *Network and Distributed System Security*, 2022. 
+
+- Property Inference Attacks Against GANs. **[Topic: PIA]**
+  [[pdf]](https://www.ndss-symposium.org/wp-content/uploads/2022-19-paper.pdf)
+  - Junhao Zhou, Yufei Chen, Chao Shen, Yang Zhang. *Network and Distributed System Security*, 2022. 
+
+- ATTEQ-NN: Attention-based QoE-aware Evasive Backdoor Attacks. **[Topic: Backdoor]**
+  [[pdf]](https://www.ndss-symposium.org/wp-content/uploads/2022-12-paper.pdf)
+  - Xueluan Gong, Yanjiao Chen, Jianshuo Dong, Qian Wang. *Network and Distributed System Security*, 2022. 
+
+- Fooling the Eyes of Autonomous Vehicles: Robust Physical Adversarial Examples Against Traffic Sign Recognition Systems. **[Topic: AEs]**
+  [[pdf]](https://www.ndss-symposium.org/wp-content/uploads/2022-130-paper.pdf)
+  - Wei Jia, Zhaojun Lu, Haichun Zhang, Zhenglin Liu, Jie Wang, Gang Qu. *Network and Distributed System Security*, 2022. 
+
+- MIRROR: Model Inversion for Deep Learning Network with High Fidelity. **[Topic: MIA]**
+  [[pdf]](https://www.ndss-symposium.org/wp-content/uploads/2022-335-paper.pdf)
+  - Shengwei An, Guanhong Tao, Qiuling Xu, Yingqi Liu, Guangyu Shen, Yuan Yao, Jingwei Xu, Xiangyu Zhang. *Network and Distributed System Security*, 2022. 
+
+- RamBoAttack: A Robust and Query Efficient Deep Neural Network Decision Exploit. **[Topic: AEs]**
+  [[pdf]](https://www.ndss-symposium.org/wp-content/uploads/2022-200-paper.pdf)
+  - Viet Quoc Vo, Ehsan Abbasnejad, Damith C. Ranasinghe. *Network and Distributed System Security*, 2022. 
+
+- RamBoAttack: A Robust and Query Efficient Deep Neural Network Decision Exploit. **[Topic: AEs]**
+  [[pdf]](https://www.ndss-symposium.org/wp-content/uploads/2022-200-paper.pdf)
+  - Viet Quoc Vo, Ehsan Abbasnejad, Damith C. Ranasinghe. *Network and Distributed System Security*, 2022. 
 
 ### NDSS'2021
 
