@@ -8,6 +8,7 @@ IEEE Symposium on Security and Privacy (**S&P**), Network and Distributed System
 We will try our best to continuously maintain this Github Repository in a weekly manner.
 
 ## News
+* 2023/7/25: Zhang Hangtao add NDSS papers.
 * 2023/7/24: Zhou Ziqi add S&P papers.
 * 2023/7/23: We create the AI-Security-Resources repository.
 
@@ -100,6 +101,58 @@ We will try our best to continuously maintain this Github Repository in a weekly
 
 
 ## Papers in NDSS 
+
+### NDSS'2023
+
+- Fusion: Efficient and Secure Inference Resilient to Malicious Servers. **[Topic: MLaaS]**
+  [[pdf]](https://www.ndss-symposium.org/wp-content/uploads/2023/02/ndss2023_s199_paper.pdf)
+  - Caiqin Dong, Jian Weng, Jia-Nan Liu, Yue Zhang, Yao Tong, Anjia Yang, Yudan Cheng, Shun Hu. *Network and Distributed System Security*, 2023.
+
+- Machine Unlearning of Features and Labels. **[Topic: MU]**
+  [[pdf]](https://www.ndss-symposium.org/wp-content/uploads/2023/02/ndss2023_s87_paper.pdf)
+  - Alexander Warnecke, Lukas Pirch, Christian Wressnegger, Konrad Rieck. *Network and Distributed System Security*, 2023.
+
+- PPA: Preference Profiling Attack Against Federated Learning. **[Topic: FL]**
+  [[pdf]](https://www.ndss-symposium.org/wp-content/uploads/2023/02/ndss2023_s171_paper.pdf)
+  - Chunyi Zhou, Yansong Gao, Anmin Fu, Kai Chen, Zhiyang Dai, Zhi Zhang, Minhui Xue, Yuqing Zhang. *Network and Distributed System Security*, 2023.
+
+-  RoVISQ: Reduction of Video Service Quality via Adversarial Attacks on Deep Learning-based Video Compression. **[Topic: AEs]**
+  [[pdf]](https://www.ndss-symposium.org/wp-content/uploads/2023/02/ndss2023_s165_paper.pdf)
+  - Jung-Woo Chang, Mojan Javaheripi, Seira Hidano, Farinaz Koushanfar. *Network and Distributed System Security*, 2023.
+
+-  Securing Federated Sensitive Topic Classification against Poisoning Attacks. **[Topic: FL]**
+  [[pdf]](https://www.ndss-symposium.org/wp-content/uploads/2023/02/ndss2023_s112_paper.pdf)
+  - Tianyue Chu, Alvaro Garcia-Recuero, Costas Iordanou, Georgios Smaragdakis, Nikolaos Laoutaris. *Network and Distributed System Security*, 2023.
+
+-  The “Beatrix” Resurrections: Robust Backdoor Detection via Gram Matrices. **[Topic: Backdoor]**
+  [[pdf]](https://www.ndss-symposium.org/wp-content/uploads/2023/02/ndss2023_s69_paper.pdf)
+  - Wanlun Ma, Derui Wang, Ruoxi Sun, Minhui Xue, Sheng Wen, Yang Xiang. *Network and Distributed System Security*, 2023.
+
+-  Adversarial Robustness for Tabular Data through Cost and Utility Awareness. **[Topic: AEs]**
+  [[pdf]](https://www.ndss-symposium.org/wp-content/uploads/2023/02/ndss2023_f924_paper.pdf)
+  - Klim Kireev, Bogdan Kulynych, Carmela Troncoso. *Network and Distributed System Security*, 2023. 
+
+-  Backdoor Attacks Against Dataset Distillation. **[Topic: Backdoor]**
+  [[pdf]](https://www.ndss-symposium.org/wp-content/uploads/2023/02/ndss2023_f287_paper.pdf)
+  - Yugeng Liu, Zheng Li, Michael Backes, Yun Shen, Yang Zhang. *Network and Distributed System Security*, 2023. 
+
+-  BEAGLE: Forensics of Deep Learning Backdoor Attack for Better Defense. **[Topic: Backdoor]**
+  [[pdf]](https://www.ndss-symposium.org/wp-content/uploads/2023/02/ndss2023_f944_paper.pdf)
+  - Siyuan Cheng, Guanhong Tao, Yingqi Liu, Shengwei An, Xiangzhe Xu, Shiwei Feng, Guangyu Shen, Kaiyuan Zhang, Qiuling Xu, Shiqing Ma, Xiangyu Zhang. *Network and Distributed System Security*, 2023. 
+
+-  Focusing on Pinocchio's Nose: A Gradients Scrutinizer to Thwart Split-Learning Hijacking Attacks Using Intrinsic Attributes. **[Topic: SL]**
+  [[pdf]](https://www.ndss-symposium.org/wp-content/uploads/2023/02/ndss2023_f874_paper.pdf)
+  - Jiayun Fu, Xiaojing Ma, Bin B. Zhu, Pingyi Hu, Ruixin Zhao, Yaru Jia, Peng Xu, Hai Jin, Dongmei Zhang. *Network and Distributed System Security*, 2023. 
+
+-  REaaS: Enabling Adversarially Robust Downstream Classifiers via Robust Encoder as a Service. **[Topic: AEs]**
+  [[pdf]](https://www.ndss-symposium.org/wp-content/uploads/2023/02/ndss2023_f444_paper.pdf)
+  - Wenjie Qu, Jinyuan Jia, Neil Zhenqiang Gong. *Network and Distributed System Security*, 2023. 
+
+-  REaaS: Enabling Adversarially Robust Downstream Classifiers via Robust Encoder as a Service. **[Topic: AEs]**
+  [[pdf]](https://www.ndss-symposium.org/wp-content/uploads/2023/02/ndss2023_f444_paper.pdf)
+  - Wenjie Qu, Jinyuan Jia, Neil Zhenqiang Gong. *Network and Distributed System Security*, 2023. 
+
+
 
 ## Papers in USENIX Security 
 
