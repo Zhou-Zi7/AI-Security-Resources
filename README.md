@@ -211,7 +211,133 @@ We will try our best to continuously maintain this Github Repository in a weekly
 - POSEIDON: Privacy-Preserving Federated Neural Network Learning. **[Topic: FL]**
   [[pdf]](https://www.ndss-symposium.org/wp-content/uploads/ndss2021_6C-1_24119_paper.pdf)
   - Sinem Sav, Apostolos Pyrgelis, Juan Ramón Troncoso-Pastoriza, David Froelicher, Jean-Philippe Bossuat, Joao Sa Sousa, Jean-Pierre Hubaux. *Network and Distributed System Security*, 2021.
-   
+
 ## Papers in USENIX Security 
+
+### USENIX Security '2023
+
+- “Security is not my field, I’m a stats guy”: A Qualitative Root Cause Analysis of Barriers to Adversarial Machine Learning Defenses in Industry. **[Topic: AEs]**
+  [[pdf]](https://www.usenix.org/system/files/sec23fall-prepub-324-mink.pdf)
+  - Jaron Mink, Harjot Kaur, Juliane Schmüser and Sascha Fahl, Yasemin Acar. *USENIX Security*, 2023. 
+
+- A Data-free Backdoor Injection Approach in Neural Networks. **[Topic: Backdoor]**
+  [[pdf]](https://www.usenix.org/system/files/sec23fall-prepub-573-lv.pdf)
+  - Peizhuo Lv, Chang Yue, Ruigang Liang, Yunfei Yang. *USENIX Security*, 2023. 
+
+- A Plot is Worth a Thousand Words: Model Information Stealing Attacks via Scientific Plots. **[Topic: MSA]**
+  [[pdf]](https://www.usenix.org/system/files/sec23fall-prepub-28-zhang-boyang.pdf)
+  - Boyang Zhang, Xinlei He, Yun Shen, Tianhao Wang, Yang Zhang. *USENIX Security*, 2023. 
+
+- Aegis: Mitigating Targeted Bit-flip Attacks against Deep Neural Networks. **[Topic: BFA]**
+  [[pdf]](https://www.usenix.org/system/files/sec23fall-prepub-246-wang-jialai.pdf)
+  - Jialai Wang, Ziyuan Zhang, Meiqi Wang, Han Qiu, Tianwei Zhang, Qi Li, Zongpeng Li, Tao Wei, Chao Zhang. *USENIX Security*, 2023. 
+
+- Black-box Adversarial Example Attack towards FCG Based Android Malware Detection under Incomplete Feature Information. **[Topic: AEs]**
+  [[pdf]](https://www.usenix.org/system/files/sec23fall-prepub-2-li-heng.pdf)
+  - Heng Li, Zhang Cheng, Bang Wu, Liheng Yuan, Cuiying Gao, Wei Yuan, Xiapu Luo. *USENIX Security*, 2023. 
+
+- CAPatch: Physical Adversarial Patch against Image Captioning Systems. **[Topic: AEs]**
+  [[pdf]](https://www.usenix.org/system/files/sec23fall-prepub-121-zhang-shibo.pdf)
+  - Shibo Zhang, Yushi Cheng, Wenjun Zhu, Xiaoyu Ji, Wenyuan Xu. *USENIX Security*, 2023. 
+
+- DiffSmooth: Certifiably Robust Learning via Diffusion Models and Local Smoothing. **[Topic: AEs]**
+  [[pdf]](https://www.usenix.org/system/files/sec23fall-prepub-540-zhang-jiawei.pdf)
+  - Jiawei Zhang, Zhongzhu Chen, Huan Zhang, Chaowei Xiao, Bo Li. *USENIX Security*, 2023.
+
+- Every Vote Counts: Ranking-Based Training of Federated Learning to Resist Poisoning Attacks. **[Topic: FL]**
+  [[pdf]](https://www.usenix.org/system/files/sec23fall-prepub-475-mozaffari.pdf)
+  - Hamid Mozaffari, Virat Shejwalkar, Amir Houmansadr. *USENIX Security*, 2023. 
+
+- Exorcising "Wraith": Protecting LiDAR-based Object Detector in Automated Driving System from Appearing Attacks. **[Topic: Appearing-Attack]**
+  [[pdf]](https://www.usenix.org/system/files/sec23fall-prepub-190-xiao-qifan.pdf)
+  - Qifan Xiao, Xudong Pan, Yifan Lu, Mi Zhang, Jiarun Dai, Min Yang. *USENIX Security*, 2023.  
+
+- Fine-grained Poisoning Attack to Local Differential Privacy Protocols for Mean and Variance Estimation. **[Topic: DP]**
+  [[pdf]](https://www.usenix.org/system/files/sec23fall-prepub-421-li-xiaoguang.pdf)
+  - Xiaoguang Li, Ninghui Li, Wenhai Sun,  Neil Zhenqiang Gong, Hui Li. *USENIX Security*, 2023. 
+
+- FreeEagle: Detecting Complex Neural Trojans in Data-Free Cases. **[Topic: Backdoor]**
+  [[pdf]](https://www.usenix.org/system/files/sec23fall-prepub-85-fu-chong.pdf)
+  - Chong Fu, Xuhong Zhang, Shouling Ji, Ting Wang, Peng Lin, Yanghe Feng, Jianwei Yin. *USENIX Security*, 2023. 
+
+- GAP: Differentially Private Graph Neural Networks with Aggregation Perturbation. **[Topic: DP]**
+  [[pdf]](https://www.usenix.org/system/files/sec23fall-prepub-196-sajadmanesh.pdf)
+  - Sina Sajadmanesh, Ali Shahin Shamsabadi, Aurélien Bellet, Daniel Gatica-Perez. *USENIX Security*, 2023. 
+
+- Lost at C: A User Study on the Security Implications of Large Language Model Code Assistants. **[Topic: LLM]**
+  [[pdf]](https://www.usenix.org/system/files/sec23fall-prepub-353-sandoval.pdf)
+  - Gustavo Sandoval, Hammond Pearce, Teo Nys, Ramesh Karri, Siddharth Garg, Brendan Dolan-Gavitt. *USENIX Security*, 2023. 
+
+- Meta-Sift: How to Sift Out a Clean Subset in the Presence of Data Poisoning?. **[Topic: PA]**
+  [[pdf]](https://www.usenix.org/system/files/sec23fall-prepub-99-zeng-yi.pdf)
+  - Yi Zeng, Minzhou Pan, Himanshu Jahagirdar, Ming Jin, Lingjuan Lyu, Ruoxi Jia. *USENIX Security*, 2023. 
+
+- No more Reviewer #2: Subverting Automatic Paper-Reviewer Assignment using Adversarial Learning. **[Topic: AEs]**
+  [[pdf]](https://arxiv.org/pdf/2303.14443.pdf)
+  - Thorsten Eisenhofer, Erwin Quiring, Jonas Möller, Doreen Riepel, Thorsten Holz, Konrad Rieck. *USENIX Security*, 2023. 
+
+- PELICAN: Exploiting Backdoors of Naturally Trained Deep Learning Models In Binary Code Analysis. **[Topic: Backdoor]**
+  [[pdf]](https://www.usenix.org/system/files/sec23fall-prepub-493-zhang-zhuo.pdf)
+  - Zhuo Zhang, Guanhong Tao, Guangyu Shen, Shengwei An, Qiuling Xu, Yingqi Liu, Yapeng Ye, Yaoxuan Wu, Xiangyu Zhang. *USENIX Security*, 2023. 
+
+- PrivateFL: Accurate, Differentially Private Federated Learning via Personalized Data Transformation. **[Topic: FL]**
+  [[pdf]](https://www.usenix.org/system/files/sec23fall-prepub-427-yang-yuchen.pdf)
+  - Yuchen Yang, Bo Hui, Haolin Yuan, Neil Gong, Yinzhi Cao. *USENIX Security*, 2023. 
+
+- Rethinking White-Box Watermarks on Deep Learning Models under Neural Structural Obfuscation. **[Topic: Watermark]**
+  [[pdf]](https://www.usenix.org/system/files/sec23fall-prepub-444-yan-yifan.pdf)
+  - Yifan Yan, Xudong Pan, Mi Zhang, and Min Yang. *USENIX Security*, 2023. 
+
+- X-Adv: Physical Adversarial Object Attacks against X-ray Prohibited Item Detection. **[Topic: AEs]**
+  [[pdf]](https://www.usenix.org/system/files/sec23fall-prepub-34-liu-aishan.pdf)
+  - Aishan Liu, Jun Guo, Jiakai Wang, Siyuan Liang, Renshuai Tao, Wenbo Zhou, Cong Liu, Xianglong Liu. *USENIX Security*, 2023. 
+
+- TPatch: A Triggered Physical Adversarial Patch. **[Topic: AEs]**
+  [[pdf]](https://www.usenix.org/system/files/sec23summer_123-zhu-prepub.pdf)
+  - Wenjun Zhu, Xiaoyu Ji, Yushi Cheng, Shibo Zhang, Wenyuan Xu. *USENIX Security*, 2023.  
+
+- UnGANable: Defending Against GAN-based Face Manipulation. **[Topic: Deepfake]**
+  [[pdf]](https://www.usenix.org/system/files/sec23summer_136-li_zheng-prepub.pdf)
+  - WZheng Li, Ning Yu, Ahmed Salem, Michael Backes, Mario Fritz, Yang Zhang. *USENIX Security*, 2023. 
+
+- Squint Hard Enough: Attacking Perceptual Hashing with Adversarial Machine Learning. **[Topic: AEs]**
+  [[pdf]](https://www.usenix.org/system/files/sec23summer_146-prokos-prepub.pdf)
+  - Jonathan Prokos, Neil Fendley, Matthew Green, Roei Schuster, Eran Tromer, Tushar Jois, Yinzhi Cao. *USENIX Security*, 2023. 
+
+- The Space of Adversarial Strategies. **[Topic: AEs]**
+  [[pdf]](https://www.usenix.org/system/files/sec23summer_256-sheatsley-prepub.pdf)
+  - Ryan Sheatsley, Blaine Hoak, Eric Pauley, Patrick McDaniel. *USENIX Security*, 2023. 
+
+- That Person Moves Like A Car: Misclassification Attack Detection for Autonomous Systems Using Spatiotemporal Consistency. **[Topic: AEs]**
+  [[pdf]](https://www.usenix.org/system/files/sec23summer_278-man-prepub.pdf)
+  - Yanmao Man, Raymond Muller, Ming Li, Z. Berkay Celik, Ryan Gerdes. *USENIX Security*, 2023. 
+
+- NeuroPots: Realtime Proactive Defense against Bit-Flip Attacks in Neural Networks. **[Topic: BFA]**
+  [[pdf]](https://www.usenix.org/system/files/sec23summer_334-liu_qi-prepub.pdf)
+  - Qi Liu, Jieming Yin, Wujie Wen, Chengmo Yang, Shi Sha. *USENIX Security*, 2023. 
+
+- URET: Universal Robustness Evaluation Toolkit (for Evasion). **[Topic: AEs]**
+  [[pdf]](https://www.usenix.org/system/files/sec23summer_347-eykholt-prepub.pdf)
+  - Kevin Eykholt, Taesung Lee, Douglas Schales, Jiyong Jang, Ian Molloy, Masha Zorin. *USENIX Security*, 2023. 
+
+- SMACK: Semantically Meaningful Adversarial Audio Attack. **[Topic: AEs]**
+  [[pdf]](https://www.usenix.org/system/files/sec23summer_371-yu_zhiyuan-prepub.pdf)
+  - Zhiyuan Yu, Yuanhaur Chang, Ning Zhang, Chaowei Xiao. *USENIX Security*, 2023. 
+
+- Gradient Obfuscation Gives a False Sense of Security in Federated Learning. **[Topic: FL]**
+  [[pdf]](https://www.usenix.org/system/files/sec23summer_372-yue-prepub.pdf)
+  - Kai Yue, Richeng Jin, Chau-Wai Wong, Dror Baron, Huaiyu Dai. *USENIX Security*, 2023. 
+
+- Fairness Properties of Face Recognition and Obfuscation Systems. **[Topic: AEs]**
+  [[pdf]](https://www.usenix.org/system/files/sec23summer_388-rosenberg-prepub.pdf)
+  - Harrison Rosenberg, Brian Tang, Kassem Fawaz, Somesh Jha. *USENIX Security*, 2023. 
+
+- PCAT: Functionality and Data Stealing from Split Learning by Pseudo-Client Attack. **[Topic: SL]**
+  [[pdf]](https://www.usenix.org/system/files/sec23summer_445-gao-prepub.pdf)
+  - Xinben Gao, Lan Zhang. *USENIX Security*, 2023. 
+
+### USENIX Security '2022
+
+### USENIX Security '2021
 
 ## Papers in CCS
