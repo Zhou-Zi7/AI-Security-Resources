@@ -8,8 +8,8 @@ IEEE Symposium on Security and Privacy (**S&P**), Network and Distributed System
 We will try our best to continuously maintain this Github Repository in a weekly manner.
 
 ## News
-* 2023/7/25: Zhang Hangtao add NDSS papers.
-* 2023/7/24: Zhou Ziqi add S&P papers.
+* 2023/7/25: Zhang Hangtao adds NDSS & USENIX Security papers.
+* 2023/7/24: Zhou Ziqi adds S&P papers.
 * 2023/7/23: We create the AI-Security-Resources repository.
 
 
@@ -67,11 +67,11 @@ We will try our best to continuously maintain this Github Repository in a weekly
   [[pdf]](https://arxiv.org/pdf/2112.03570.pdf)
   - Nicholas Carlini, Steve Chien, Milad Nasr, Shuang Song, Andreas Terzis, Florian Tramer. *IEEE Symposium on Security and Privacy*, 2022.
 
-- Back to the Drawing Board: A Critical Evaluation of Poisoning Attacks on Production Federated Learning. **[Topic: FL]**
+- Back to the Drawing Board: A Critical Evaluation of Poisoning Attacks on Production Federated Learning. **[Topic: PA & FL]**
   [[pdf]](https://arxiv.org/pdf/2108.10241.pdf)
   - Virat Shejwalkar, Amir Houmansadr, Peter Kairouz, Daniel Ramage. *IEEE Symposium on Security and Privacy*, 2022.
 
-- Model Stealing Attacks Against Inductive Graph Neural Networks. **[Topic: MSA]**
+- Model Stealing Attacks Against Inductive Graph Neural Networks. **[Topic: MSA & GNN]**
   [[pdf]](https://arxiv.org/pdf/2112.08331.pdf)
   - Yun Shen, Xinlei He, Yufei Han, Yang Zhang. *IEEE Symposium on Security and Privacy*, 2022.
  
@@ -260,7 +260,7 @@ We will try our best to continuously maintain this Github Repository in a weekly
   [[pdf]](https://www.usenix.org/system/files/sec23fall-prepub-85-fu-chong.pdf)
   - Chong Fu, Xuhong Zhang, Shouling Ji, Ting Wang, Peng Lin, Yanghe Feng, Jianwei Yin. *USENIX Security*, 2023. 
 
-- GAP: Differentially Private Graph Neural Networks with Aggregation Perturbation. **[Topic: DP]**
+- GAP: Differentially Private Graph Neural Networks with Aggregation Perturbation. **[Topic: DP & GNN]**
   [[pdf]](https://www.usenix.org/system/files/sec23fall-prepub-196-sajadmanesh.pdf)
   - Sina Sajadmanesh, Ali Shahin Shamsabadi, Aurélien Bellet, Daniel Gatica-Perez. *USENIX Security*, 2023. 
 
@@ -337,6 +337,120 @@ We will try our best to continuously maintain this Github Repository in a weekly
   - Xinben Gao, Lan Zhang. *USENIX Security*, 2023. 
 
 ### USENIX Security '2022
+
+- ML-Doctor: Holistic Risk Assessment of Inference Attacks Against Machine Learning Models. **[Topic: MIA]**
+  [[pdf]](https://www.usenix.org/system/files/sec22-liu-yugeng.pdf)
+  - Yugeng Liu, Rui Wen, Xinlei He, Ahmed Salem, Zhikun Zhang, Michael Backes, Emiliano De Cristofaro, Mario Fritz, Yang Zhang. *USENIX Security*, 2022. 
+
+- Blacklight: Scalable Defense for Neural Networks against Query-Based Black-Box Attacks. **[Topic: AEs]**
+  [[pdf]](https://www.usenix.org/system/files/sec22-li-huiying.pdf)
+  - Huiying Li, Shawn Shan, Emily Wenger, Jiayun Zhang, Haitao Zheng, Ben Y. Zhao. *USENIX Security*, 2022. 
+
+- AutoDA: Automated Decision-based Iterative Adversarial Attacks. **[Topic: AEs]**
+  [[pdf]](https://www.usenix.org/system/files/sec22-fu-qi.pdf)
+  - Qi-An Fu, Yinpeng Dong, Hang Su, Jun Zhu, Chao Zhang. *USENIX Security*, 2022. 
+
+- Poison Forensics: Traceback of Data Poisoning Attacks in Neural Networks. **[Topic: PA]**
+  [[pdf]](https://www.usenix.org/system/files/sec22-shan.pdf)
+  - Shawn Shan, Arjun Nitin Bhagoji, Haitao Zheng, Ben Y. Zhao. *USENIX Security*, 2022. 
+
+- Teacher Model Fingerprinting Attacks Against Transfer Learning. **[Topic: Fingerprinting]**
+  [[pdf]](https://www.usenix.org/system/files/sec22-chen-yufei.pdf)
+  - Yufei Chen, Chao Shen, Cong Wang, Yang Zhang. *USENIX Security*, 2022. 
+
+- Hidden Trigger Backdoor Attack on NLP Models via Linguistic Style Manipulation. **[Topic: Backdoor]**
+  [[pdf]](https://www.usenix.org/system/files/sec22-pan-hidden.pdf)
+  - Xudong Pan, Mi Zhang, Beina Sheng, Jiaming Zhu, Min Yang. *USENIX Security*, 2022. 
+
+- PoisonedEncoder: Poisoning the Unlabeled Pre-training Data in Contrastive Learning. **[Topic: PA]**
+  [[pdf]](https://www.usenix.org/system/files/sec22-liu-hongbin.pdf)
+  - Hongbin Liu, Jinyuan Jia, Neil Zhenqiang Gong. *USENIX Security*, 2022. 
+
+- Pool Inference Attacks on Local Differential Privacy: Quantifying the Privacy Guarantees of Apple's Count Mean Sketch in Practice. **[Topic: DP]**
+  [[pdf]](https://www.usenix.org/system/files/sec22-gadotti_1.pdf)
+  - Andrea Gadotti, Florimond Houssiau, Meenatchi Sundaram Muthu Selva Annamalai, Yves-Alexandre de Montjoye. *USENIX Security*, 2022. 
+
+- PatchCleanser: Certifiably Robust Defense against Adversarial Patches for Any Image Classifier. **[Topic: AEs]**
+  [[pdf]](https://www.usenix.org/system/files/sec22-xiang.pdf)
+  - Chong Xiang, Saeed Mahloujifar, Prateek Mittal. *USENIX Security*, 2022. 
+
+- Exploring the Security Boundary of Data Reconstruction via Neuron Exclusivity Analysis. **[Topic: DRA]**
+  [[pdf]](https://www.usenix.org/system/files/sec22-pan-exploring.pdf)
+  - Xudong Pan, Mi Zhang, Yifan Yan, Jiaming Zhu, Min Yang. *USENIX Security*, 2022. 
+
+- Poisoning Attacks to Local Differential Privacy Protocols for Key-Value Data. **[Topic: PA & DP]**
+  [[pdf]](https://www.usenix.org/system/files/sec22-wu-yongji.pdf)
+  - Yongji Wu, Xiaoyu Cao, Jinyuan Jia, Neil Zhenqiang Gong. *USENIX Security*, 2022. 
+
+- Communication-Efficient Triangle Counting under Local Differential Privacy. **[Topic: DP]**
+  [[pdf]](https://www.usenix.org/system/files/sec22-imola.pdf)
+  - Jacob Imola, Takao Murakami, Kamalika Chaudhuri. *USENIX Security*, 2022. 
+
+- Security Analysis of Camera-LiDAR Fusion Against Black-Box Attacks on Autonomous Vehicles. **[Topic: AEs & AV]**
+  [[pdf]](https://www.usenix.org/system/files/sec22-hallyburton.pdf)
+  - R. Spencer Hallyburton, Yupei Liu, Yulong Cao, Z. Morley Mao, Miroslav Pajic. *USENIX Security*, 2022. 
+
+- Transferring Adversarial Robustness Through Robust Representation Matching. **[Topic: AEs]**
+  [[pdf]](https://www.usenix.org/system/files/sec22-vaishnavi.pdf)
+  - Pratik Vaishnavi, Kevin Eykholt, Amir Rahmati. *USENIX Security*, 2022. 
+
+- Seeing is Living? Rethinking the Security of Facial Liveness Verification in the Deepfake Era. **[Topic: Deepfake]**
+  [[pdf]](https://www.usenix.org/system/files/sec22-li-changjiang.pdf)
+  - Changjiang Li, Li Wang, Shouling Ji, Xuhong Zhang, Zhaohan Xi, Shanqing Guo, Ting Wang. *USENIX Security*, 2022. 
+
+- On the Necessity of Auditable Algorithmic Definitions for Machine Unlearning. **[Topic: Machine-Unlearning]**
+  [[pdf]](https://www.usenix.org/system/files/sec22-thudi.pdf)
+  - Anvith Thudi, Hengrui Jia, Ilia Shumailov, Nicolas Papernot. *USENIX Security*, 2022. 
+
+- Mitigating Membership Inference Attacks by Self-Distillation Through a Novel Ensemble Architecture. **[Topic: MIA]**
+  [[pdf]](https://www.usenix.org/system/files/sec22-tang.pdf)
+  - Xinyu Tang, Saeed Mahloujifar, Liwei Song, Virat Shejwalkar, Milad Nasr, Amir Houmansadr, Prateek Mittal. *USENIX Security*, 2022. 
+
+- Membership Inference Attacks and Defenses in Neural Network Pruning. **[Topic: MIA]**
+  [[pdf]](https://www.usenix.org/system/files/sec22-yuan-xiaoyong.pdf)
+  - Xiaoyong Yuan, Lan Zhang. *USENIX Security*, 2022. 
+
+- Efficient Differentially Private Secure Aggregation for Federated Learning via Hardness of Learning with Errors. **[Topic: FL]**
+  [[pdf]](https://www.usenix.org/system/files/sec22-stevens.pdf)
+  - Timothy Stevens, Christian Skalka, Christelle Vincent, John Ring, Samuel Clark, Joseph Near. *USENIX Security*, 2022. 
+
+- Who Are You (I Really Wanna Know)? Detecting Audio DeepFakes Through Vocal Tract Reconstruction. **[Topic: Deepfake]**
+  [[pdf]](https://www.usenix.org/system/files/sec22-blue.pdf)
+  - Logan Blue, Kevin Warren, Hadi Abdullah, Cassidy Gibson, Luis Vargas, Jessica O'Dell, Kevin Butler, Patrick Traynor. *USENIX Security*, 2022. 
+
+
+- Are Your Sensitive Attributes Private? Novel Model Inversion Attribute Inference Attacks on Classification Models. **[Topic: MIAI]**
+  [[pdf]](hhttps://www.usenix.org/system/files/sec22-mehnaz.pdf)
+  - Shagufta Mehnaz, Sayanton V. Dibbo, Ehsanul Kabir, Ninghui Li, Elisa Bertino. *USENIX Security*, 2022. 
+
+- FLAME: Taming Backdoors in Federated Learning. **[Topic: FL & Backdoor]**
+  [[pdf]](https://www.usenix.org/system/files/sec22-nguyen.pdf)
+  - Thien Duc Nguyen, Phillip Rieger, Huili Chen, Hossein Yalame, Helen Möllering, Hossein Fereidooni, Samuel Marchal, Markus Miettinen, Azalia Mirhoseini, Shaza Zeitouni, Farinaz Koushanfar, Ahmad-Reza Sadeghi, Thomas Schneider. *USENIX Security*, 2022. 
+
+- Synthetic Data – Anonymisation Groundhog Day. **[Topic: Synthetic-Data]**
+  [[pdf]](https://www.usenix.org/system/files/sec22-stadler.pdf)
+  - Theresa Stadler, Bristena Oprisanu, Carmela Troncoso. *USENIX Security*, 2022. 
+
+- On the Security Risks of AutoML. **[Topic: NAS]**
+  [[pdf]](https://www.usenix.org/system/files/sec22-pang-ren.pdf)
+  - Ren Pang, Zhaohan Xi, Shouling Ji, Xiapu Luo, Ting Wang. *USENIX Security*, 2022. 
+
+- Inference Attacks Against Graph Neural Networks. **[Topic: IA & GNN]**
+  [[pdf]](https://www.usenix.org/system/files/sec22-zhang-zhikun.pdf)
+  - Zhikun Zhang, Min Chen, Michael Backes, Yun Shen, Yang Zhang. *USENIX Security*, 2022. 
+
+- Adversarial Detection Avoidance Attacks: Evaluating the robustness of perceptual hashing-based client-side scanning. **[Topic: AEs]**
+  [[pdf]](https://www.usenix.org/system/files/sec22-jain.pdf)
+  - Shubham Jain, Ana-Maria Crețu, Yves-Alexandre de Montjoye. *USENIX Security*, 2022. 
+
+- Label Inference Attacks Against Vertical Federated Learning. **[Topic: FL]**
+  [[pdf]](https://www.usenix.org/system/files/sec22-fu-chong.pdf)
+  - Chong Fu, Xuhong Zhang, Shouling Ji, Jinyin Chen, Jingzheng Wu, Shanqing Guo, Jun Zhou, Alex X. Liu, Ting Wang. *USENIX Security*, 2022. 
+
+- Rolling Colors: Adversarial Laser Exploits against Traffic Light Recognition. **[Topic: AEs]**
+  [[pdf]](https://www.usenix.org/system/files/sec22-yan.pdf)
+  - Chen Yan, Zhijian Xu, Zhanyuan Yin, Xiaoyu Ji, Wenyuan Xu. *USENIX Security*, 2022. 
+
 
 ### USENIX Security '2021
 
