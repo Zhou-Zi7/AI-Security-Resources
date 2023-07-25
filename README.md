@@ -174,7 +174,7 @@ We will try our best to continuously maintain this Github Repository in a weekly
   [[pdf]](https://www.ndss-symposium.org/wp-content/uploads/2022-54-paper.pdf)
   - Mohammad Naseri, Jamie Hayes, Emiliano De Cristofaro. *Network and Distributed System Security*, 2022. 
 
-- Property Inference Attacks Against GANs. **[Topic: PIA]**
+- Property Inference Attacks Against GANs. **[Topic: IA & GAN]**
   [[pdf]](https://www.ndss-symposium.org/wp-content/uploads/2022-19-paper.pdf)
   - Junhao Zhou, Yufei Chen, Chao Shen, Yang Zhang. *Network and Distributed System Security*, 2022. 
 
@@ -201,11 +201,11 @@ We will try our best to continuously maintain this Github Repository in a weekly
   [[pdf]](https://www.ndss-symposium.org/wp-content/uploads/ndss2021_6C-4_24525_paper.pdf)
   - Hai Huang, Jiaming Mu, Neil Zhenqiang Gong, Qi Li, Bin Liu, Mingwei Xu. *Network and Distributed System Security*, 2021. 
 
-- FLTrust: Byzantine-robust Federated Learning via Trust Bootstrapping. **[Topic: FL]**
+- FLTrust: Byzantine-robust Federated Learning via Trust Bootstrapping. **[Topic: PA & FL]**
   [[pdf]](https://www.ndss-symposium.org/wp-content/uploads/ndss2021_6C-2_24434_paper.pdf)
   - Xiaoyu Cao, Minghong Fang, Jia Liu, Neil Zhenqiang Gong. *Network and Distributed System Security*, 2021. 
 
-- Manipulating the Byzantine: Optimizing Model Poisoning Attacks and Defenses for Federated Learning. **[Topic: FL]**
+- Manipulating the Byzantine: Optimizing Model Poisoning Attacks and Defenses for Federated Learning. **[Topic: PA & FL]**
   [[pdf]](https://www.ndss-symposium.org/wp-content/uploads/ndss2021_6C-3_24498_paper.pdf)
   - Virat Shejwalkar, Amir Houmansadr. *Network and Distributed System Security*, 2021. 
 
@@ -249,7 +249,7 @@ We will try our best to continuously maintain this Github Repository in a weekly
   [[pdf]](https://www.usenix.org/system/files/sec23fall-prepub-540-zhang-jiawei.pdf)
   - Jiawei Zhang, Zhongzhu Chen, Huan Zhang, Chaowei Xiao, Bo Li. *USENIX Security*, 2023.
 
-- Every Vote Counts: Ranking-Based Training of Federated Learning to Resist Poisoning Attacks. **[Topic: FL]**
+- Every Vote Counts: Ranking-Based Training of Federated Learning to Resist Poisoning Attacks. **[Topic: PA & FL]**
   [[pdf]](https://www.usenix.org/system/files/sec23fall-prepub-475-mozaffari.pdf)
   - Hamid Mozaffari, Virat Shejwalkar, Amir Houmansadr. *USENIX Security*, 2023. 
 
@@ -285,7 +285,7 @@ We will try our best to continuously maintain this Github Repository in a weekly
   [[pdf]](https://www.usenix.org/system/files/sec23fall-prepub-493-zhang-zhuo.pdf)
   - Zhuo Zhang, Guanhong Tao, Guangyu Shen, Shengwei An, Qiuling Xu, Yingqi Liu, Yapeng Ye, Yaoxuan Wu, Xiangyu Zhang. *USENIX Security*, 2023. 
 
-- PrivateFL: Accurate, Differentially Private Federated Learning via Personalized Data Transformation. **[Topic: FL]**
+- PrivateFL: Accurate, Differentially Private Federated Learning via Personalized Data Transformation. **[Topic: DP & FL]**
   [[pdf]](https://www.usenix.org/system/files/sec23fall-prepub-427-yang-yuchen.pdf)
   - Yuchen Yang, Bo Hui, Haolin Yuan, Neil Gong, Yinzhi Cao. *USENIX Security*, 2023. 
 
@@ -371,7 +371,7 @@ We will try our best to continuously maintain this Github Repository in a weekly
   [[pdf]](https://www.usenix.org/system/files/sec22-liu-hongbin.pdf)
   - Hongbin Liu, Jinyuan Jia, Neil Zhenqiang Gong. *USENIX Security*, 2022. 
 
-- Pool Inference Attacks on Local Differential Privacy: Quantifying the Privacy Guarantees of Apple's Count Mean Sketch in Practice. **[Topic: DP]**
+- Pool Inference Attacks on Local Differential Privacy: Quantifying the Privacy Guarantees of Apple's Count Mean Sketch in Practice. **[Topic: IA & DP]**
   [[pdf]](https://www.usenix.org/system/files/sec22-gadotti_1.pdf)
   - Andrea Gadotti, Florimond Houssiau, Meenatchi Sundaram Muthu Selva Annamalai, Yves-Alexandre de Montjoye. *USENIX Security*, 2022. 
 
@@ -415,7 +415,7 @@ We will try our best to continuously maintain this Github Repository in a weekly
   [[pdf]](https://www.usenix.org/system/files/sec22-yuan-xiaoyong.pdf)
   - Xiaoyong Yuan, Lan Zhang. *USENIX Security*, 2022. 
 
-- Efficient Differentially Private Secure Aggregation for Federated Learning via Hardness of Learning with Errors. **[Topic: FL]**
+- Efficient Differentially Private Secure Aggregation for Federated Learning via Hardness of Learning with Errors. **[Topic: DP & FL]**
   [[pdf]](https://www.usenix.org/system/files/sec22-stevens.pdf)
   - Timothy Stevens, Christian Skalka, Christelle Vincent, John Ring, Samuel Clark, Joseph Near. *USENIX Security*, 2022. 
 
@@ -448,7 +448,7 @@ We will try our best to continuously maintain this Github Repository in a weekly
   [[pdf]](https://www.usenix.org/system/files/sec22-jain.pdf)
   - Shubham Jain, Ana-Maria Crețu, Yves-Alexandre de Montjoye. *USENIX Security*, 2022. 
 
-- Label Inference Attacks Against Vertical Federated Learning. **[Topic: FL]**
+- Label Inference Attacks Against Vertical Federated Learning. **[Topic: IA & FL]**
   [[pdf]](https://www.usenix.org/system/files/sec22-fu-chong.pdf)
   - Chong Fu, Xuhong Zhang, Shouling Ji, Jinyin Chen, Jingzheng Wu, Shanqing Guo, Jun Zhou, Alex X. Liu, Ting Wang. *USENIX Security*, 2022. 
 
@@ -458,5 +458,85 @@ We will try our best to continuously maintain this Github Repository in a weekly
 
 
 ### USENIX Security '2021
+
+- PatchGuard: A Provably Robust Defense against Adversarial Patches via Small Receptive Fields and Masking. **[Topic: AEs]**
+  [[pdf]](https://www.usenix.org/system/files/sec21-xiang.pdf)
+  - Chong Xiang, Arjun Nitin Bhagoji, Vikash Sehwag, Prateek Mittal. *USENIX Security*, 2021. 
+
+- PrivSyn: Differentially Private Data Synthesis. **[Topic: DP]**
+  [[pdf]](https://www.usenix.org/system/files/sec21-zhang-zhikun.pdf)
+  - Zhikun Zhang, Tianhao Wang, Ninghui Li, Jean Honorio, Michael Backes, Shibo He, Jiming Chen, Yang Zhang. *USENIX Security*, 2021. 
+
+- Muse: Secure Inference Resilient to Malicious Clients. **[Topic: IA]**
+  [[pdf]](https://www.usenix.org/system/files/sec21-lehmkuhl.pdf)
+  - Ryan Lehmkuhl, Pratyush Mishra, Akshayaram Srinivasan, Raluca Ada Popa. *USENIX Security*, 2021. 
+
+- Systematic Evaluation of Privacy Risks of Machine Learning Models. **[Topic: IA]**
+  [[pdf]](https://www.usenix.org/system/files/sec21-song.pdf)
+  - Liwei Song, Prateek Mittal. *USENIX Security*, 2021. 
+
+- Explanation-Guided Backdoor Poisoning Attacks Against Malware Classifiers. **[Topic: Backdoor]**
+  [[pdf]](https://www.usenix.org/system/files/sec21-severi.pdf)
+  - Giorgio Severi, Jim Meyer, Scott Coull, Alina Oprea. *USENIX Security*, 2021. 
+
+- Cerebro: A Platform for Multi-Party Cryptographic Collaborative Learning. **[Topic: MPC]**
+  [[pdf]](https://www.usenix.org/system/files/sec21-zheng.pdf)
+  - Wenting Zheng, Ryan Deng, Weikeng Chen, Raluca Ada Popa, Aurojit Panda, Ion Stoica. *USENIX Security*, 2021. 
+
+- T-Miner: A Generative Approach to Defend Against Trojan Attacks on DNN-based Text Classification. **[Topic: Backdoor]**
+  [[pdf]](https://www.usenix.org/system/files/sec21-azizi.pdf)
+  - Ahmadreza Azizi, Ibrahim Asadullah Tahmid, Asim Waheed, Neal Mangaokar, Jiameng Pu, Mobin Javed, Chandan K. Reddy, Bimal Viswanath, Virginia Tech. *USENIX Security*, 2021. 
+
+- Defeating DNN-Based Traffic Analysis Systems in Real-Time With Blind Adversarial Perturbations. **[Topic: AEs]**
+  [[pdf]](https://www.usenix.org/system/files/sec21-nasr.pdf)
+  - Milad Nasr, Alireza Bahramali, Amir Houmansadr. *USENIX Security*, 2021. 
+
+- Data Poisoning Attacks to Local Differential Privacy Protocols. **[Topic: PA & DP]**
+  [[pdf]](https://www.usenix.org/system/files/sec21-cao-xiaoyu.pdf)
+  - Xiaoyu Cao, Jinyuan Jia, Neil Zhenqiang Gong. *USENIX Security*, 2021. 
+
+- How to Make Private Distributed Cardinality Estimation Practical, and Get Differential Privacy for Free. **[Topic: DP]**
+  [[pdf]](https://www.usenix.org/conference/usenixsecurity21/presentation/hu-changhui)
+  - Changhui Hu, Jin Li, Zheli Liu, Xiaojie Guo, Yu Wei, and Xuan Guang, Grigorios Loukides, Changyu Dong. *USENIX Security*, 2021. 
+
+- SLAP: Improving Physical Adversarial Examples with Short-Lived Adversarial Perturbations. **[Topic: AEs]**
+  [[pdf]](https://www.usenix.org/system/files/sec21-lovisotto.pdf)
+  - Giulio Lovisotto, Henry Turner, Ivo Sluganovic, Martin Strohmeier, Ivan Martinovic. *USENIX Security*, 2021. 
+
+- WaveGuard: Understanding and Mitigating Audio Adversarial Examples. **[Topic: AEs]**
+  [[pdf]](https://www.usenix.org/system/files/sec21-hussain.pdf)
+  - Shehzeen Hussain, Paarth Neekhara, Shlomo Dubnov, Julian McAuley, Farinaz Koushanfar. *USENIX Security*, 2021. 
+
+- Graph Backdoor. **[Topic: Backdoor]**
+  [[pdf]](https://www.usenix.org/system/files/sec21-xi.pdf)
+  - Zhaohan Xi, Ren Pang, Shouling Ji, Ting Wang. *USENIX Security*, 2021. 
+
+- Entangled Watermarks as a Defense against Model Extraction. **[Topic: Watermark]**
+  [[pdf]](https://www.usenix.org/system/files/sec21-jia.pdf)
+  - Hengrui Jia, Christopher A. Choquette-Choo, Varun Chandrasekaran, Nicolas Papernot. *USENIX Security*, 2021. 
+
+- Too Good to Be Safe: Tricking Lane Detection in Autonomous Driving with Crafted Perturbations. **[Topic: AEs]**
+  [[pdf]](https://www.usenix.org/system/files/sec21-jing.pdf)
+  - Pengfei Jing, Qiyi Tang, Yuefeng Du,  Lei Xue, Xiapu Luo, Ting Wang, Sen Nie, Shi Wu. *USENIX Security*, 2021. 
+
+- Fantastic Four: Honest-Majority Four-Party Secure Computation With Malicious Security. **[Topic: MPC]**
+  [[pdf]](https://www.usenix.org/system/files/sec21-dalskov.pdf)
+  - Anders Dalskov, Daniel Escudero, Marcel Keller. *USENIX Security*, 2021. 
+
+- Locally Differentially Private Analysis of Graph Statistics. **[Topic: DP]**
+  [[pdf]](https://www.usenix.org/system/files/sec21-imola.pdf)
+  - Jacob Imola, Takao Murakami, Kamalika Chaudhuri. *USENIX Security*, 2021. 
+
+- Demon in the Variant: Statistical Analysis of DNNs for Robust Backdoor Contamination Detection. **[Topic: Backdoor]**
+  [[pdf]](https://www.usenix.org/system/files/sec21-tang-di.pdf)
+  - Di Tang, XiaoFeng Wang, Haixu Tang, Kehuan Zhang. *USENIX Security*, 2021. 
+
+- Stealing Links from Graph Neural Networks. **[Topic: GNN]**
+  [[pdf]](https://www.usenix.org/system/files/sec21-he-xinlei.pdf)
+  - Xinlei He, Jinyuan Jia, Michael Backes, Neil Zhenqiang Gong, Yang Zhang. *USENIX Security*, 2021. 
+
+- Adversarial Policy Training against Deep Reinforcement Learning. **[Topic: AEs & RL]**
+  [[pdf]](https://www.usenix.org/system/files/sec21-wu-xian.pdf)
+  - Xian Wu, Wenbo Guo, Hua Wei, Xinyu Xing. *USENIX Security*, 2021. 
 
 ## Papers in CCS
