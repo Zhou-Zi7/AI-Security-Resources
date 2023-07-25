@@ -189,12 +189,29 @@ We will try our best to continuously maintain this Github Repository in a weekly
   [[pdf]](https://www.ndss-symposium.org/wp-content/uploads/2022-200-paper.pdf)
   - Viet Quoc Vo, Ehsan Abbasnejad, Damith C. Ranasinghe. *Network and Distributed System Security*, 2022. 
 
-- RamBoAttack: A Robust and Query Efficient Deep Neural Network Decision Exploit. **[Topic: AEs]**
-  [[pdf]](https://www.ndss-symposium.org/wp-content/uploads/2022-200-paper.pdf)
-  - Viet Quoc Vo, Ehsan Abbasnejad, Damith C. Ranasinghe. *Network and Distributed System Security*, 2022. 
 
 ### NDSS'2021
 
+- Data Poisoning Attacks to Deep Learning Based Recommender Systems. **[Topic: PAs]**
+  [[pdf]](https://www.ndss-symposium.org/wp-content/uploads/ndss2021_6C-4_24525_paper.pdf)
+  - Hai Huang, Jiaming Mu, Neil Zhenqiang Gong, Qi Li, Bin Liu, Mingwei Xu. *Network and Distributed System Security*, 2021. 
+
+- FLTrust: Byzantine-robust Federated Learning via Trust Bootstrapping. **[Topic: FL]**
+  [[pdf]](https://www.ndss-symposium.org/wp-content/uploads/ndss2021_6C-2_24434_paper.pdf)
+  - Xiaoyu Cao, Minghong Fang, Jia Liu, Neil Zhenqiang Gong. *Network and Distributed System Security*, 2021. 
+
+- Manipulating the Byzantine: Optimizing Model Poisoning Attacks and Defenses for Federated Learning. **[Topic: FL]**
+  [[pdf]](https://www.ndss-symposium.org/wp-content/uploads/ndss2021_6C-3_24498_paper.pdf)
+  - Virat Shejwalkar, Amir Houmansadr. *Network and Distributed System Security*, 2021. 
+
+- Practical Blind Membership Inference Attack via Differential Comparisons. **[Topic: MIA]**
+  [[pdf]](https://www.ndss-symposium.org/wp-content/uploads/ndss2021_5C-2_24293_paper.pdf)
+  - Bo Hui, Yuchen Yang, Haolin Yuan, Philippe Burlina, Neil Zhenqiang Gong, Yinzhi Cao. *Network and Distributed System Security*, 2021. 
+
+- POSEIDON: Privacy-Preserving Federated Neural Network Learning. **[Topic: FL]**
+  [[pdf]](https://www.ndss-symposium.org/wp-content/uploads/ndss2021_6C-1_24119_paper.pdf)
+  - Sinem Sav, Apostolos Pyrgelis, Juan Ramón Troncoso-Pastoriza, David Froelicher, Jean-Philippe Bossuat, Joao Sa Sousa, Jean-Pierre Hubaux. *Network and Distributed System Security*, 2021.
+   
 ## Papers in USENIX Security 
 
 ## Papers in CCS
