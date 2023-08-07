@@ -543,6 +543,7 @@ We will try our best to continuously maintain this Github Repository in a weekly
 ### ACM CCS '2023
 ### ACM CCS '2022
 ### ACM CCS '2021
+
 - Cert-RNN: Towards Certifying the Robustness of Recurrent Neural Networks. **[Topic: AEs]**
   [[pdf]](https://nesa.zju.edu.cn/download/dty_pdf_cert_rnn.pdf)
   - Tianyu Du, Shouling Ji, Lujia Shen, Yao Zhang, Jinfeng Li, Jie Shi, Chengfang Fang, Jianwei Yin, Raheem Beyah, Ting Wang. *ACM CCS*, 2021.
@@ -571,3 +572,62 @@ We will try our best to continuously maintain this Github Repository in a weekly
   [[pdf]](https://dl.acm.org/doi/abs/10.1145/3460120.3485255)
   - Benjamin Coleman, Anshumali Shrivastava. *ACM CCS*, 2021.
 
+- On the Robustness of Domain Constraints. **[Topic: AEs]**
+  [[pdf]](https://dl.acm.org/doi/abs/10.1145/3460120.3484570)
+  - Ryan Sheatsley, Blaine Hoak, Eric Pauley, Yohan Beugin, Michael J. Weisman,  Patrick McDaniel. *ACM CCS*, 2021.
+
+- Membership Leakage in Label-Only Exposures. **[Topic: MI]**
+  [[pdf]](https://dl.acm.org/doi/abs/10.1145/3460120.3484575)
+  - Zheng Li, Yang Zhang. *ACM CCS*, 2021.
+
+- Hidden Backdoors in Human-Centric Language Models. **[Topic: Backdoor]**
+  [[pdf]](https://dl.acm.org/doi/abs/10.1145/3460120.3484576)
+  - Shaofeng Li, Hui Liu, Tian Dong, Benjamin Zi Hao Zhao, Minhui Xue, Haojin Zhu, Jialiang Lu. *ACM CCS*, 2021.
+
+- DataLens: Scalable Privacy Preserving Training via Gradient Compression and Aggregation. **[Topic: DP]**
+  [[pdf]](https://dl.acm.org/doi/abs/10.1145/3460120.3484579)
+  - Boxin Wang, Fan Wu, Yunhui Long, Luka Rimanic, Ce Zhang, Bo Li. *ACM CCS*, 2021.
+ 
+- DeepAID: Interpreting and Improving Deep Learning-based Anomaly Detection in Security Applications. **[Topic: DL]**
+  [[pdf]](https://dl.acm.org/doi/abs/10.1145/3460120.3484589)
+  - Dongqi Han, Zhiliang Wang, Wenqi Chen, Ying Zhong, Su Wang, Han Zhang, Jiahai Yang, Xingang Shi, Xia Yin. *ACM CCS*, 2021.
+
+- Honest-but-Curious Nets: Sensitive Attributes of Private Inputs Can Be Secretly Coded into the Classifiers' Outputs. **[Topic: Classifer]**
+  [[pdf]](https://dl.acm.org/doi/abs/10.1145/3460120.3484533)
+  - Mohammad Malekzadeh, Anastasia Borovykh, Deniz Gunduz. *ACM CCS*, 2021.
+ 
+- Differential Privacy for Directional Data. **[Topic: DP]**
+  [[pdf]](https://dl.acm.org/doi/abs/10.1145/3460120.3484734)
+  - Benjamin Weggenmann, Florian Kerschbaum. *ACM CCS*, 2021.
+ 
+- "Hello, It's Me": Deep Learning-based Speech Synthesis Attacks in the Real World. **[Topic: Speech Synthesis Attack]**
+  [[pdf]](https://dl.acm.org/doi/abs/10.1145/3460120.3484742)
+  - Emily Wenge, Max Bronckers, Christian Cianfarani, Jenna Cryan, Angela Sha, Haitao Zheng, Ben Y. Zhao. *ACM CCS*, 2021.
+ 
+- EncoderMI: Membership Inference against Pre-trained Encoders in Contrastive Learning. **[Topic: MI]**
+  [[pdf]](https://dl.acm.org/doi/abs/10.1145/3460120.3484749)
+  - Hongbin Liu, Jinyuan Jia, Wenjie Qu, Neil Gong. *ACM CCS*, 2021.
+ 
+- Subpopulation Data Poisoning Attacks. **[Topic: Poisoning Attack]**
+  [[pdf]](https://dl.acm.org/doi/abs/10.1145/3460120.3485368)
+  - Matthew Jagielski, Giorgio Severi, Niklas Pousette Harger, Alina Oprea. *ACM CCS*, 2021.
+ 
+- Continuous Release of Data Streams under both Centralized and Local Differential Privacy. **[Topic: DP]**
+  [[pdf]](https://dl.acm.org/doi/abs/10.1145/3460120.3484750)
+  - Tianhao Wang, Joann Qiongna Chen, Zhikun Zhang, Dong Su, Yueqiang Cheng, Zhou Li, Ninghui Li, Somesh Jha. *ACM CCS*, 2021.
+ 
+- When Machine Unlearning Jeopardizes Privacy. **[Topic: MI]**
+  [[pdf]](https://dl.acm.org/doi/abs/10.1145/3460120.3484756)
+  - Min Chen, Zhikun Zhang, Tianhao Wang, Michael Backes, Mathias Humbert, Yang Zhang. *ACM CCS*, 2021.
+
+- DetectorGuard: Provably Securing Object Detectors against Localized Patch Hiding Attacks. **[Topic: AEs]**
+  [[pdf]](https://dl.acm.org/doi/abs/10.1145/3460120.3484757)
+  - Chong Xiang, Prateek Mittal. *ACM CCS*, 2021.
+ 
+- I Can See the Light: Attacks on Autonomous Vehicles Using Invisible Lights. **[Topic: AV]**
+  [[pdf]](https://dl.acm.org/doi/abs/10.1145/3460120.3484766)
+  - Wei Wang, Yao Yao, Xin Liu, Xiang Li, Pei Hao, Ting Zhu. *ACM CCS*, 2021.
+ 
+- Backdoor Pre-trained Models Can Transfer to All. **[Topic: Backdoor]**
+  [[pdf]](https://arxiv.org/abs/2111.00197)
+  - Lujia Shen, Shouling Ji, Xuhong Zhang, Jinfeng Li, Jing Chen, Jie Shi, Chengfang Fang, Jianwei Yin, Ting Wang. *ACM CCS*, 2021.
