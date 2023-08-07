@@ -631,3 +631,23 @@ We will try our best to continuously maintain this Github Repository in a weekly
 - Backdoor Pre-trained Models Can Transfer to All. **[Topic: Backdoor]**
   [[pdf]](https://arxiv.org/abs/2111.00197)
   - Lujia Shen, Shouling Ji, Xuhong Zhang, Jinfeng Li, Jing Chen, Jie Shi, Chengfang Fang, Jianwei Yin, Ting Wang. *ACM CCS*, 2021.
+
+- Quantifying and Mitigating Privacy Risks of Contrastive Learning. **[Topic: CL]**
+  [[pdf]](https://dl.acm.org/doi/abs/10.1145/3460120.3484571)
+  - Xinlei He, Yang Zhang. *ACM CCS*, 2021.
+ 
+- Membership Inference Attacks Against Recommender Systems. **[Topic: MI]**
+  [[pdf]](https://dl.acm.org/doi/abs/10.1145/3460120.3484770)
+  - Minxing Zhang, Zihan Wang, Yang Zhang, Zhaochun Ren, Pengjie Ren, Zhunmin Chen, Pengfei Hu. *ACM CCS*, 2021.
+
+- Learning Security Classifiers with Verified Global Robustness Properties. **[Topic: Classifier]**
+  [[pdf]](https://dl.acm.org/doi/abs/10.1145/3460120.3484776)
+  - Yizheng Chen, Shiqi Wang, Yue Qin, Xiaojing Liao, Suman Jana, David Wagner. *ACM CCS*, 2021.
+ 
+- Robust Adversarial Attacks Against DNN-Based Wireless Communication Systems. **[Topic: AEs]**
+  [[pdf]](https://dl.acm.org/doi/abs/10.1145/3460120.3484777)
+  - Alireza Bahramali, Milad Nasr, Amir Houmansadr, Dennis Goeckel, Don Towsley. *ACM CCS*, 2021.
+
+- Can We Use Arbitrary Objects to Attack LiDAR Perception in Autonomous Driving?. **[Topic: AEs]**
+  [[pdf]](https://dl.acm.org/doi/abs/10.1145/3460120.3485377)
+  - Yi Zhu, Chenglin Miao, Tianhang Zheng, Foad Hajiaghajani, Lu Su, Chunming Qiao. *ACM CCS*, 2021.
