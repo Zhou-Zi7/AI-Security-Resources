@@ -548,7 +548,7 @@ We will try our best to continuously maintain this Github Repository in a weekly
   - Tianyu Du, Shouling Ji, Lujia Shen, Yao Zhang, Jinfeng Li, Jie Shi, Chengfang Fang, Jianwei Yin, Raheem Beyah, Ting Wang. *ACM CCS*, 2021.
 - AHEAD: Adaptive Hierarchical Decomposition for Range Query under Local Differential Privacy. **[Topic: LDP]**
   [[pdf]](https://dl.acm.org/doi/abs/10.1145/3460120.3485668)
-  -Linkang Du, Zhikun Zhang, Shaojie Bai, Changchang Liu, Shouling Ji, Peng Cheng, Jiming Chen. *ACM CCS*, 2021.
+  - Linkang Du, Zhikun Zhang, Shaojie Bai, Changchang Liu, Shouling Ji, Peng Cheng, Jiming Chen. *ACM CCS*, 2021.
 - Unleashing the Tiger: Inference Attacks on Split Learning. **[Topic: SL]**
   [[pdf]](https://dl.acm.org/doi/abs/10.1145/3460120.3485259)
   - Dario Pasquini, Giuseppe Ateniese, Massimo Bernaschi. *ACM CCS*, 2021.
