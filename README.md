@@ -540,3 +540,27 @@ We will try our best to continuously maintain this Github Repository in a weekly
   - Xian Wu, Wenbo Guo, Hua Wei, Xinyu Xing. *USENIX Security*, 2021. 
 
 ## Papers in CCS
+### ACM CCS '2023
+### ACM CCS '2022
+### ACM CCS '2021
+- Cert-RNN: Towards Certifying the Robustness of Recurrent Neural Networks. **[Topic: AEs]**
+  [[pdf]](https://nesa.zju.edu.cn/download/dty_pdf_cert_rnn.pdf)
+  - Tianyu Du, Shouling Ji, Lujia Shen, Yao Zhang, Jinfeng Li, Jie Shi, Chengfang Fang, Jianwei Yin, Raheem Beyah, Ting Wang. *ACM CCS*, 2021.
+- AHEAD: Adaptive Hierarchical Decomposition for Range Query under Local Differential Privacy. **[Topic: LDP]**
+  [[pdf]](https://dl.acm.org/doi/abs/10.1145/3460120.3485668)
+  -Linkang Du, Zhikun Zhang, Shaojie Bai, Changchang Liu, Shouling Ji, Peng Cheng, Jiming Chen. *ACM CCS*, 2021.
+- Unleashing the Tiger: Inference Attacks on Split Learning. **[Topic: SL]**
+  [[pdf]](https://dl.acm.org/doi/abs/10.1145/3460120.3485259)
+  - Dario Pasquini, Giuseppe Ateniese, Massimo Bernaschi. *ACM CCS*, 2021.
+- TableGAN-MCA: Evaluating Membership Collisions of GAN-Synthesized Tabular Data Releasing. **[Topic: GAN]**
+  [[pdf]](https://dl.acm.org/doi/abs/10.1145/3460120.3485251)
+  - Aoting Hu, Renjie Xie, Zhigang Lu, Aiqun Hu, Minhui Xue. *ACM CCS*, 2021.
+- "I need a better description": An Investigation Into User Expectations For Differential Privacy. **[Topic: DP]**
+  [[pdf]](https://dl.acm.org/doi/abs/10.1145/3460120.3485252)
+  - Rachel Cummings, Gabriel Kaptchuk, Elissa M. Redmiles. *ACM CCS*, 2021.
+- Locally Private Graph Neural Networks. **[Topic: GNNs]**
+  [[pdf]](https://dl.acm.org/doi/abs/10.1145/3460120.3484565)
+  - Sina Sajadmanesh, Daniel Gatica-Perez. *ACM CCS*, 2021.
+- A One-Pass Distributed and Private Sketch for Kernel Sums with Applications to Machine Learning at Scale. **[Topic: DP]**
+  [[pdf]](https://dl.acm.org/doi/abs/10.1145/3460120.3485255)
+  - Benjamin Coleman, Anshumali Shrivastava. *ACM CCS*, 2021.
