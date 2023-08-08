@@ -542,6 +542,27 @@ We will try our best to continuously maintain this Github Repository in a weekly
 ## Papers in CCS
 ### ACM CCS '2023
 ### ACM CCS '2022
+- Characterizing and Detecting Non-Consensual Photo Sharing on Social Networks. **[Topic: Non-consensual Sharing]**
+  [[pdf]](https://dl.acm.org/doi/10.1145/3548606.3560571)
+  - Tengfei Zheng, Tongqing Zhou, Qiang Liu, Kui Wu, Zhiping Cai. *ACM CCS*, 2022.
+
+- DPIS: An Enhanced Mechanism for Differentially Private SGD with Importance Sampling. **[Topic: DP & DNN]**
+  [[pdf]](https://arxiv.org/abs/2210.09634)
+  - Jianxin Wei, Ergute Bao, Xiaokui Xiao, Yin Yang. *ACM CCS*, 2022.
+
+- DriveFuzz: Discovering Autonomous Driving Bugs through Driving Quality-Guided Fuzzing. **[Topic: AD]**
+  [[pdf]](https://arxiv.org/abs/2211.01829)
+  - Seulbae Kim, Major Liu, Junghwan "John" Rhee, Yuseok Jeon, Yonghwi Kwon, Chung Hwan Kim. *ACM CCS*, 2022.
+
+- EIFFeL: Ensuring Integrity for Federated Learning. **[Topic: FL]**
+  [[pdf]](https://arxiv.org/abs/2112.12727)
+  - Amrita Roy Chowdhury, Chuan Guo, Somesh Jha, Laurens van der Maaten. *ACM CCS*, 2022.
+
+- Eluding Secure Aggregation in Federated Learning via Model Inconsistency. **[Topic: FL]**
+  [[pdf]](https://dl.acm.org/doi/10.1145/3548606.3560557)
+  - Dario Pasquini, Danilo Francati, Giuseppe Ateniese. *ACM CCS*, 2022.
+
+
 ### ACM CCS '2021
 
 - Cert-RNN: Towards Certifying the Robustness of Recurrent Neural Networks. **[Topic: AEs]**
