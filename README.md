@@ -540,8 +540,8 @@ We will try our best to continuously maintain this Github Repository in a weekly
   - Xian Wu, Wenbo Guo, Hua Wei, Xinyu Xing. *USENIX Security*, 2021. 
 
 ## Papers in CCS
-### ACM CCS '2023
-### ACM CCS '2022
+### CCS '2023
+### CCS '2022
 - Characterizing and Detecting Non-Consensual Photo Sharing on Social Networks. **[Topic: Non-consensual Sharing]**
   [[pdf]](https://dl.acm.org/doi/10.1145/3548606.3560571)
   - Tengfei Zheng, Tongqing Zhou, Qiang Liu, Kui Wu, Zhiping Cai. *ACM CCS*, 2022.
@@ -563,7 +563,7 @@ We will try our best to continuously maintain this Github Repository in a weekly
   - Dario Pasquini, Danilo Francati, Giuseppe Ateniese. *ACM CCS*, 2022.
 
 
-### ACM CCS '2021
+### CCS '2021
 
 - Cert-RNN: Towards Certifying the Robustness of Recurrent Neural Networks. **[Topic: AEs]**
   [[pdf]](https://nesa.zju.edu.cn/download/dty_pdf_cert_rnn.pdf)
