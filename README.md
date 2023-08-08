@@ -648,6 +648,34 @@ We will try our best to continuously maintain this Github Repository in a weekly
   [[pdf]](https://dl.acm.org/doi/abs/10.1145/3460120.3484777)
   - Alireza Bahramali, Milad Nasr, Amir Houmansadr, Dennis Goeckel, Don Towsley. *ACM CCS*, 2021.
 
-- Can We Use Arbitrary Objects to Attack LiDAR Perception in Autonomous Driving?. **[Topic: AEs]**
+- Can We Use Arbitrary Objects to Attack LiDAR Perception in Autonomous Driving? **[Topic: AEs]**
   [[pdf]](https://dl.acm.org/doi/abs/10.1145/3460120.3485377)
   - Yi Zhu, Chenglin Miao, Tianhang Zheng, Foad Hajiaghajani, Lu Su, Chunming Qiao. *ACM CCS*, 2021.
+ 
+- Feature Indistinguishable Attack to Circumvent Trapdoor-enabled Defense. **[Topic: AEs]**
+   [[Code]](https://github.com/CGCL-codes/FeatureIndistinguishableAttack)[[pdf]](https://dl.acm.org/doi/10.1145/3460120.3485378)
+  - Chaoxiang He, Bin (Benjamin) Zhu, Xiaojing Ma, Hai Jin, Shengshan Hu. *ACM CCS*, 2021.
+
+- A Hard Label Black-box Adversarial Attack Against Graph Neural Networks. **[Topic: AEs & DNN]**
+   [[pdf]](https://dl.acm.org/doi/10.1145/3460120.3484796)
+  - Jiaming Mu, Binghui Wang, Qi Li, Kun Sun, Mingwei Xu, Zhuotao Liu. *ACM CCS*, 2021.
+ 
+- Reverse Attack: Black-box Attacks on Collaborative Recommendation. **[Topic: CF & Poisoning Attack]**
+   [[pdf]](https://dl.acm.org/doi/abs/10.1145/3460120.3484805)
+  - Yihe Zhang, Xu Yuan, Jin Li, Jiadong Lou, Li Chen, Nianfeng Tzeng. *ACM CCS*, 2021.
+
+- zkCNN: Zero Knowledge Proofs for Convolutional Neural Network Predictions and Accuracy. **[Topic: CNN]**
+   [[pdf]](https://dl.acm.org/doi/10.1145/3460120.3485379)
+  - Tianyi Liu, Xiang Xie, Yupeng Zhang. *ACM CCS*, 2021.
+
+- Black-box Adversarial Attacks on Commercial Speech Platforms with Minimal Information. **[Topic: AEs]**
+   [[pdf]](https://dl.acm.org/doi/10.1145/3460120.3485383)
+  - Baolin Zheng, Peipei Jiang, Qian Wang, Qi Li, Chao Shen, Cong Wang, Yunjie Ge, Qingyang Teng, Shenyi Zhang. *ACM CCS*, 2021.
+
+- AI-Lancet: Locating Error-inducing Neurons to Optimize Neural Networks. **[Topic: DNN]**
+   [[pdf]](https://dl.acm.org/doi/10.1145/3460120.3484818)
+  - Yue Zhao, Hong Zhu, Kai Chen, Shengzhi Zhang. *ACM CCS*, 2021.
+
+- AI-Lancet: Locating Error-inducing Neurons to Optimize Neural Networks. **[Topic: DNN]**
+   [[pdf]](https://dl.acm.org/doi/10.1145/3460120.3484818)
+  - Yue Zhao, Hong Zhu, Kai Chen, Shengzhi Zhang. *ACM CCS*, 2021.
