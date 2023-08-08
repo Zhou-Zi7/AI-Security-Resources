@@ -675,7 +675,3 @@ We will try our best to continuously maintain this Github Repository in a weekly
 - AI-Lancet: Locating Error-inducing Neurons to Optimize Neural Networks. **[Topic: DNN]**
    [[pdf]](https://dl.acm.org/doi/10.1145/3460120.3484818)
   - Yue Zhao, Hong Zhu, Kai Chen, Shengzhi Zhang. *ACM CCS*, 2021.
-
-- AI-Lancet: Locating Error-inducing Neurons to Optimize Neural Networks. **[Topic: DNN]**
-   [[pdf]](https://dl.acm.org/doi/10.1145/3460120.3484818)
-  - Yue Zhao, Hong Zhu, Kai Chen, Shengzhi Zhang. *ACM CCS*, 2021.
