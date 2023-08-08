@@ -562,6 +562,10 @@ We will try our best to continuously maintain this Github Repository in a weekly
   [[pdf]](https://dl.acm.org/doi/10.1145/3548606.3560557)
   - Dario Pasquini, Danilo Francati, Giuseppe Ateniese. *ACM CCS*, 2022.
 
+- Enhanced Membership Inference Attacks against Machine Learning Models. **[Topic: MI]**
+  [[pdf]](https://dl.acm.org/doi/10.1145/3548606.3560675)
+  - Jiayuan Ye, Aadyaa Maddi, Sasi Kumar Murakonda, Vincent Bindschaedler, Reza Shokri. *ACM CCS*, 2022.
+
 
 ### CCS '2021
 
