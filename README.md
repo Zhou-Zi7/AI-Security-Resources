@@ -626,6 +626,10 @@ We will try our best to continuously maintain this Github Repository in a weekly
   [[pdf]](https://arxiv.org/abs/2201.11692)
   - Tianshuo Cong, Xinlei He, Yang Zhang. *ACM CCS*, 2022.
 
+- SpecPatch: Human-In-The-Loop Adversarial Audio Spectrogram Patch Attack on Speech Recognition. **[Topic: AEs]**
+  [[pdf]](https://doi.org/10.1145/3548606.3560660)
+  - Hanqing Guo, Yuanda Wang, Nikolay Ivanov, Li Xiao, Qiben Yan. *ACM CCS*, 2022.
+
 
 ### CCS '2021
 
