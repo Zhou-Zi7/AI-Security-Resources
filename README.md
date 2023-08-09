@@ -566,6 +566,66 @@ We will try our best to continuously maintain this Github Repository in a weekly
   [[pdf]](https://dl.acm.org/doi/10.1145/3548606.3560675)
   - Jiayuan Ye, Aadyaa Maddi, Sasi Kumar Murakonda, Vincent Bindschaedler, Reza Shokri. *ACM CCS*, 2022.
 
+- Feature Inference Attack on Shapley Values. **[Topic: MLaaS]**
+  [[pdf]](https://dl.acm.org/doi/pdf/10.1145/3548606.3560573)
+  - Xinjian Luo, Yangfan Jiang, Xiaokui Xiao. *ACM CCS*, 2022.
+
+- Graph Unlearning. **[Topic: Machine Unlearning]**
+  [[pdf]](https://arxiv.org/abs/2103.14991)
+  - Min Chen, Zhikun Zhang, Tianhao Wang, Michael Backes, Mathias Humbert, Yang Zhang. *ACM CCS*, 2022.
+
+- Group Property Inference Attacks Against Graph Neural Networks. **[Topic: GNNs]**
+  [[pdf]](https://dl.acm.org/doi/10.1145/3548606.3560662)
+  - Xiuling Wang, Wendy Hui Wang. *ACM CCS*, 2022.
+
+- Harnessing Perceptual Adversarial Patches for Crowd Counting. **[Topic: AEs]**
+  [[pdf]](https://dl.acm.org/doi/10.1145/3548606.3560566)
+  - Shunchang Liu, Jiakai Wang, Aishan Liu, Yingwei Li, Yijie Gao, Xianglong Liu, Dacheng Tao. *ACM CCS*, 2022.
+
+- Training Set Debugging Using Trusted Items. **[Topic: ML]**
+  [[pdf]](https://arxiv.org/abs/1801.08019)
+  - Zayd Hammoudeh, Daniel Lowd. *ACM CCS*, 2022.
+
+- LPGNet: Link Private Graph Networks for Node Classification. **[Topic: GCNs & DP]**
+  [[pdf]](https://arxiv.org/abs/2205.03105)
+  - Aashish Kolluri, Teodora Baluta, Bryan Hooi, Prateek Saxena. *ACM CCS*, 2022.
+
+- LoneNeuron: a Highly-Effective Feature-Domain Neural Trojan Using Invisible and Polymorphic Watermarks. **[Topic: DNNs & Watermark]**
+  [[pdf]](https://dl.acm.org/doi/pdf/10.1145/3548606.3560678)
+  - Zeyan Liu, Fengjun Li, Zhu Li, Bo Luo. *ACM CCS*, 2022.
+
+- Membership Inference Attacks and Generalization: A Causal Perspective. **[Topic: MI]**
+  [[pdf]](https://arxiv.org/abs/2209.08615)
+  - Teodora Baluta, Shiqi Shen, S. Hitarth, Shruti Tople, Prateek Saxena. *ACM CCS*, 2022.
+
+- Membership Inference Attacks by Exploiting Loss Trajectory. **[Topic: MI]**
+  [[pdf]](https://dl.acm.org/doi/10.1145/3548606.3560684)
+  - Yiyong Liu, Zhengyu Zhao, Michael Backes, Yang Zhang. *ACM CCS*, 2022.
+
+- Order-Disorder: Imitation Adversarial Attacks for Black-box Neural Ranking Models. **[Topic: IR]**
+  [[pdf]](https://arxiv.org/abs/2209.06506)
+  - Jiawei Liu, Yangyang Kang, Di Tang, Kaisong Song, Changlong Sun, Xiaofeng Wang, Wei Lu, Xiaozhong Liu. *ACM CCS*, 2022.
+
+- Perception-Aware Attack: Creating Adversarial Music via Reverse-Engineering Human Perception. **[Topic: AEs]**
+  [[pdf]](https://arxiv.org/abs/2207.13192)
+  - Rui Duan, Zhe Qu, Shangqing Zhao, Leah Ding, Yao Liu, Zhuo Lu. *ACM CCS*, 2022.
+
+- Physical Hijacking Attacks against Object Trackers. **[Topic: AV]**
+  [[pdf]](https://dl.acm.org/doi/10.1145/3548606.3559390)
+  - Raymond Muller, Yanmao Man, Z. Berkay Celik, Ming Li, Ryan Gerdes. *ACM CCS*, 2022.
+
+- Post-breach Recovery: Protection against White-box Adversarial Examples for Leaked DNN Models. **[Topic: DNN]**
+  [[pdf]](https://dl.acm.org/doi/10.1145/3548606.3560561)
+  - Shawn Shan, Wenxin Ding, Emily Wenger, Haitao Zheng, Ben Y. Zhao. *ACM CCS*, 2022.
+
+- QuerySnout: Automating the Discovery of Attribute Inference Attacks against Query-Based Systems. **[Topic: QBS]**
+  [[pdf]](https://arxiv.org/abs/2211.05249)
+  - Ana-Maria Crețu, Florimond Houssiau, Antoine Cully, Yves-Alexandre de Montjoye. *ACM CCS*, 2022.
+
+- SSLGuard: A Watermarking Scheme for Self-supervised Learning Pre-trained Encoders. **[Topic: Watermark]**
+  [[pdf]](https://arxiv.org/abs/2201.11692)
+  - Tianshuo Cong, Xinlei He, Yang Zhang. *ACM CCS*, 2022.
+
 
 ### CCS '2021
 
