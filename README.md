@@ -630,6 +630,30 @@ We will try our best to continuously maintain this Github Repository in a weekly
   [[pdf]](https://doi.org/10.1145/3548606.3560660)
   - Hanqing Guo, Yuanda Wang, Nikolay Ivanov, Li Xiao, Qiben Yan. *ACM CCS*, 2022.
 
+- StolenEncoder: Stealing Pre-trained Encoders in Self-supervised Learning. **[Topic: EaaS]**
+  [[pdf]](https://dl.acm.org/doi/10.1145/3548606.3560586)
+  - Yupei Liu, Jinyuan Jia, Hongbin Liu, Neil Gong. *ACM CCS*, 2022.
+
+- Truth Serum: Poisoning Machine Learning Models to Reveal Their Secrets. **[Topic: ML]**
+  [[pdf]](https://arxiv.org/abs/2204.00032)
+  - Florian Tramer, Reza Shokri, Ayrton San Joaquin, Hoang Le, Matthew Jagielski, Sanghyun Hong, Nicholas Carlini. *ACM CCS*, 2022.
+
+- Understanding Real-world Threats to Deep Learning Models in Android Apps. **[Topic: AEs]**
+  [[pdf]](https://dl.acm.org/doi/10.1145/3548606.3559388)
+  - Zizhuang Deng, Kai Chen, Guozhu Meng, Xiaodong Zhang, Ke Xu, Yao Cheng. *ACM CCS*, 2022.
+
+- When Evil Calls: Targeted Adversarial Voice over IP Network. **[Topic: AEs]**
+  [[pdf]](https://dl.acm.org/doi/10.1145/3548606.3560671)
+  - Han Liu, Zhiyuan Yu, Mingming Zha, XiaoFeng Wang, William Yeoh, Yevgeniy Vorobeychik, Ning Zhang. *ACM CCS*, 2022.
+
+- Why So Toxic? Measuring and Triggering Toxic Behavior in Open-Domain Chatbots. **[Topic: AEs]**
+  [[pdf]](https://arxiv.org/abs/2209.03463)
+  - Wai Man Si, Michael Backes, Jeremy Blackburn, Emiliano De Cristofaro, Gianluca Stringhini, Savvas Zannettou, Yang Zhang. *ACM CCS*, 2022.
+
+- "Is your explanation stable?": A Robustness Evaluation Framework for Feature Attribution. **[Topic: NNs]**
+  [[pdf]](https://arxiv.org/abs/2209.01782v1)
+  - Yuyou Gan, Yuhao Mao, Xuhong Zhang, Shouling Ji, Yuwen Pu, Meng Han, Jianwei Yin, Ting Wang. *ACM CCS*, 2022.
+
 
 ### CCS '2021
 
