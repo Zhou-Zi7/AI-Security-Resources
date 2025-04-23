@@ -8,7 +8,7 @@ IEEE Symposium on Security and Privacy (**S&P**), Network and Distributed System
 We will try our best to continuously maintain this Github Repository in a weekly manner.
 
 ## News
-* 2025/4/23: Zongren Ma added S&P 2023&2024, CCS 2024 papers
+* 2025/4/23: Zongren Ma added S&P 2023&2024, CCS 2024 papers.
 * 2025/4/22: Pinzheng Wu added NDSS 2023&2024&2025, USENIX Security 2023&2024 papers.
 * 2023/8/6:  Junyu Shi added CCS papers.
 * 2023/7/25: Hangtao Zhang added NDSS & USENIX Security papers.
