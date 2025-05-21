@@ -1,11 +1,11 @@
 # AI-Security-Resources
 
-This Github repository summarizes a list of research papers on **AI security** from the BIG-4 academic conferences, namely 
+This Github repository summarizes a list of BIG-4 academic conferences papers on **AI security**, namely 
 IEEE Symposium on Security and Privacy (**S&P**), Network and Distributed System Security Symposium (**NDSS**), **USENIX Security** Symposium, and ACM Conference on Computer and Communications Security (**CCS**). 
 
 *This repository is supported by the Trustworthy Artificial Intelligence ([T-AI](http://trustai.cse.hust.edu.cn)) Lab at  Huazhong University of Science and Technology (HUST).*
 
-We will try our best to continuously maintain this Github Repository in a weekly manner.
+Feel free to contact zhouziqi@hust.edu.cn for any issues. 
 
 ## News
 * 2025/5/21: Zongren Ma added S&P 2025 papers.
