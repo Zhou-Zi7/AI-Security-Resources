@@ -8,6 +8,7 @@ IEEE Symposium on Security and Privacy (**S&P**), Network and Distributed System
 We will try our best to continuously maintain this Github Repository in a weekly manner.
 
 ## News
+* 2025/5/21: Zongren Ma added S&P 2025 papers.
 * 2025/4/23: Zongren Ma added S&P 2023&2024, CCS 2024 papers.
 * 2025/4/22: Pinzheng Wu added NDSS 2023&2024&2025, USENIX Security 2023&2024 papers.
 * 2023/8/6:  Junyu Shi added CCS papers.
@@ -19,6 +20,7 @@ We will try our best to continuously maintain this Github Repository in a weekly
 ## Table of Contents
 
 - [Papers in S&P](#papers-in-sp)
+  - [S&P'2025](#papers-in-sp25)
   - [S&P'2024](#papers-in-sp24)
   - [S&P'2023](#papers-in-sp23)
   - [S&P'2022](#papers-in-sp22)
@@ -42,6 +44,114 @@ We will try our best to continuously maintain this Github Repository in a weekly
 
 
 ## Papers in S&P
+
+### S&P'2025
+
+- GRID: Protecting Training Graph from Link Stealing Attacks on GNN Models. **[Topic: GNN]**
+  [[pdf]](https://arxiv.org/abs/2501.10985)
+  - Jiadong Lou, Xu Yuan, Rui Zhang, Xingliang Yuan, Neil Gong, Nian-Feng Tzeng. *IEEE Symposium on Security and Privacy*, 2025.
+
+- Preference Poisoning Attacks on Reward Model Learning. **[Topic: AEs]**
+  [[pdf]](https://arxiv.org/abs/2402.01920)
+  - Junlin Wu, Jiongxiao Wang, Chaowei Xiao, Chenguang Wang, Ning Zhang, Yevgeniy Vorobeychik. *IEEE Symposium on Security and Privacy*, 2025.
+
+- Prevalence Overshadows Concerns? Understanding Chinese Users' Privacy Awareness and Expectations Towards LLM-based Healthcare Consultation. **[Topic: LLM]**
+  [[pdf]](https://www.computer.org/csdl/proceedings-article/sp/2025/223600a092/22K50ou6sKY)
+  - Z. Liu, L. Hu, T. Zhou, Y. Tang and Z. Cai. *IEEE Symposium on Security and Privacy*, 2025.
+
+- Adversarial Robust ViT-based Automatic Modulation Recognition in Practical Deep Learning-based Wireless Systems. **[Topic: vit]**
+  [[pdf]](https://www.computer.org/csdl/proceedings-article/sp/2025/223600a030/21B7Qkjltcs)
+  - G. Li, C. Lin, X. Zhang, X. Ma and L. Guo *IEEE Symposium on Security and Privacy*, 2025.
+
+- HarmonyCloak: Making Music Unlearnable for Generative AI. **[Topic: AI]**
+  [[pdf]](https://www.computer.org/csdl/proceedings-article/sp/2025/223600a085/21B7RrbCU12)
+  - S. I. A. Meerza, L. Sun and J. . Liu. *IEEE Symposium on Security and Privacy*, 2025.
+
+- Exploring Parent-Child Perceptions on Safety in Generative AI: Concerns, Mitigation Strategies, and Design Implications. **[Topic: AI]**
+  [[pdf]](https://arxiv.org/abs/2406.10461)
+  - Yaman Yu, Tanusree Sharma, Melinda Hu, Justin Wang, Yang Wang. *IEEE Symposium on Security and Privacy*, 2025.
+
+- Supporting Human Raters with the Detection of Harmful Content using Large Language Models. **[Topic: LLM]**
+  [[pdf]](https://arxiv.org/abs/2406.12800)
+  - Kurt Thomas, Patrick Gage Kelley, David Tao, Sarah Meiklejohn, Owen Vallis, Shunwen Tan, Blaž Bratanič, Felipe Tiengo Ferreira, Vijay Kumar Eranti, Elie Bursztein. *IEEE Symposium on Security and Privacy*, 2025.
+
+- Watermarking Language Models for Many Adaptive Users. **[Topic: LLM]**
+  [[pdf]](https://arxiv.org/abs/2405.11109)
+  - Aloni Cohen, Alexander Hoover, Gabe Schoenbach. *IEEE Symposium on Security and Privacy*, 2025.
+
+- Benchmarking Attacks on Learning with Errors. **[Topic: AEs]**
+  [[pdf]](http://export.arxiv.org/abs/2408.00882)
+  - Emily Wenger, Eshika Saxena, Mohamed Malhou, Ellie Thieu, Kristin Lauter. *IEEE Symposium on Security and Privacy*, 2025.
+
+- Fight Fire with Fire: Combating Adversarial Patch Attacks using Pattern-randomized Defensive Patches. **[Topic: AEs]**
+  [[pdf]](https://arxiv.org/abs/2311.06122)
+  - Jianan Feng, Jiachun Li, Changqing Miao, Jianjun Huang, Wei You, Wenchang Shi, Bin Liang. *IEEE Symposium on Security and Privacy*, 2025.
+
+- UnMarker: A Universal Attack on Defensive Image Watermarking. **[Topic: AEs]**
+  [[pdf]](https://arxiv.org/abs/2405.08363)
+  - Andre Kassis, Urs Hengartner. *IEEE Symposium on Security and Privacy*, 2025.
+
+- My Model is Malware to You: Transforming AI Models into Malware by Abusing TensorFlow APIs. **[Topic: AI]**
+  [[pdf]](https://www.computer.org/csdl/proceedings-article/sp/2025/223600a012/21B7Q4kpO7e)
+  - R. Zhu, G. Chen, W. Shen, X. Xie and R. Chang. *IEEE Symposium on Security and Privacy*, 2025.
+
+- BAIT: Large Language Model Backdoor Scanning by Inverting Attack Target. **[Topic: LLM]**
+  [[pdf]](https://www.computer.org/csdl/proceedings-article/sp/2025/223600a103/22K50yIvWta)
+  - Guangyu Shen, Siyuan Cheng, Zhuo Zhang, Guanhong Tao, Kaiyuan Zhang, Hanxi Guo, Lu Yan, Xiaolong Jin, Shengwei An, Shiqing 
+    Ma, Xiangyu Zhang. *IEEE Symposium on Security and Privacy*, 2025.
+
+- GuardAIn: Protecting Emerging Generative AI Workloads on Heterogeneous NPU. **[Topic: AI]**
+  [[pdf]](https://www.computer.org/csdl/proceedings-article/sp/2025/223600d823/26hiVLrJZi8)
+  - Aritra Dhar, Clément Thorens, Lara Magdalena Lazier, Lukas Cavigelli. *IEEE Symposium on Security and Privacy*, 2025.
+
+- Comet: Accelerating Private Inference for Large Language Model by Predicting Activation Sparsity. **[Topic: LLM]**
+  [[pdf]](https://arxiv.org/abs/2505.07239)
+  - Guang Yan, Yuhui Zhang, Zimu Guo, Lutan Zhao, Xiaojun Chen, Chen Wang, Wenhao Wang, Dan Meng, Rui Hou. *IEEE Symposium on Security and Privacy*, 2025.
+
+- Prompt Inversion Attack against Collaborative Inference of Large Language Models. **[Topic: LLM]**
+  [[pdf]](https://arxiv.org/abs/2503.09022)
+  - Wenjie Qu, Yuguang Zhou, Yongji Wu, Tingsong Xiao, Binhang Yuan, Yiming Li, Jiaheng Zhang. *IEEE Symposium on Security and Privacy*, 2025.
+
+- The Inadequacy of Similarity-based Privacy Metrics: Privacy Attacks against ``Truly Anonymous'' Synthetic Datasets. **[Topic: AEs]**
+  [[pdf]](https://arxiv.org/abs/2312.05114)
+  - Georgi Ganev, Emiliano De Cristofaro. *IEEE Symposium on Security and Privacy*, 2025.
+
+- PEFTGuard: Detecting Backdoor Attacks Against Parameter-Efficient Fine-Tuning. **[Topic: AEs]**
+  [[pdf]](https://arxiv.org/abs/2411.17453)
+  - Zhen Sun, Tianshuo Cong, Yule Liu, Chenhao Lin, Xinlei He, Rongmao Chen, Xingshuo Han, Xinyi Huang. *IEEE Symposium on Security and Privacy*, 2025.
+
+- An Attack-Agnostic Defense Framework Against Manipulation Attacks under Local Differential Privacy. **[Topic: AEs]**
+  [[pdf]](https://www.computer.org/csdl/proceedings-article/sp/2025/223600d858/26EkHbq0fUQ)
+  - Puning Zhao, Zhikun Zhang, Jiawei Dong, Jiafei Wu, Shaowei Wang, Zhe Liu, Yunjun Gao. *IEEE Symposium on Security and Privacy*, 2025.
+
+- CODEBREAKER: Dynamic Extraction Attacks on Code Language Models. **[Topic: AEs]**
+  [[pdf]](https://www.computer.org/csdl/proceedings-article/sp/2025/223600a522/26hiTLYepe8)
+  -Changzhou Han, Zehang Deng, Wanlun Ma, Xiaogang Zhu, Jason (Minhui) Xue, Tianqing Zhu, Sheng Wen, Yang Xiang. *IEEE Symposium on Security and Privacy*, 2025.
+
+- Secure Transfer Learning: Training Clean Model Against Backdoor in Pre-Trained Encoder and Downstream Dataset. **[Topic: backdoor]**
+  [[pdf]](https://arxiv.org/abs/2504.11990)
+  -Yechao Zhang, Yuxuan Zhou, Tianyu Li, Minghui Li, Shengshan Hu, Wei Luo, Leo Yu Zhang. *IEEE Symposium on Security and Privacy*, 2025.
+
+- Make a Feint to the East While Attacking in the West: Blinding LLM-Based Code Auditors with Flashboom Attacks. **[Topic: LLM]**
+  [[pdf]](https://www.computer.org/csdl/proceedings-article/sp/2025/223600a539/26hiTMIdqiA)
+  -Xiao Li, Yue Li, Hao Wu, Yue Zhang, Kaidi Xu, Xiuzhen Cheng, Sheng Zhong, Fengyuan Xu. *IEEE Symposium on Security and Privacy*, 2025.
+
+- Alleviating the Fear of Losing Alignment in LLM Fine-tuning. **[Topic: LLM]**
+  [[pdf]](https://arxiv.org/abs/2504.09757)
+  -Kang Yang, Guanhong Tao, Xun Chen, Jun Xu. *IEEE Symposium on Security and Privacy*, 2025.
+
+- Fun-tuning: Characterizing the Vulnerability of Proprietary LLMs to Optimization-based Prompt Injection Attacks via the Fine-Tuning Interface. **[Topic: LLM]**
+  [[pdf]](https://arxiv.org/abs/2501.09798)
+  -Andrey Labunets, Nishit V. Pandya, Ashish Hooda, Xiaohan Fu, Earlence Fernandes. *IEEE Symposium on Security and Privacy*, 2025.
+
+- Fuzz-Testing Meets LLM-Based Agents: An Automated and Efficient Framework for Jailbreaking Text-To-Image Generation Models. **[Topic: LLM]**
+  [[pdf]](https://www.computer.org/csdl/proceedings-article/sp/2025/223600a336/26hiTETXKow)
+  -Yingkai Dong, Xiangtao Meng, Ning Yu, Zheng Li, Shanqing Guo. *IEEE Symposium on Security and Privacy*, 2025.
+
+- Understanding Users' Security and Privacy Concerns and Attitudes Towards Conversational AI Platforms. **[Topic: AI]**
+  [[pdf]](https://arxiv.org/abs/2504.06552)
+  -Mutahar Ali, Arjun Arunasalam, Habiba Farrukh. *IEEE Symposium on Security and Privacy*, 2025.
+
 
 ### S&P'2024
 
